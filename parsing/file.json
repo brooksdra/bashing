@@ -1,0 +1,58 @@
+{
+    "headers": {
+        "Content-Type": [
+            "application/json"
+        ],
+        "Transfer-Encoding": [
+            "chunked"
+        ],
+        "Date": [
+            "Tue, 25 Apr 2023 19:21:13 GMT"
+        ],
+        "Keep-Alive": [
+            "timeout=60"
+        ],
+        "Connection": [
+            "keep-alive"
+        ]
+    },
+    "body": [
+        {
+            "_id": "6446c42975ac603808704a58",
+            "name": "ExperimentalMode",
+            "value": false,
+            "type": "Boolean",
+            "group": "Research Mode"
+        },
+        {
+            "_id": "6446c42975ac603808704a59",
+            "name": "ReferenceValueOverride",
+            "value": 20,
+            "type": "Integer",
+            "group": "system"
+        },
+        {
+            "_id": "6446c42975ac603808704a5a",
+            "name": "UI.MaxExportCount",
+            "value": 5000,
+            "type": "Integer",
+            "group": "system"
+        },
+        {
+            "_id": "6446c42975ac603808704a5b",
+            "name": "SerialNo",
+            "value": "RD-00007",
+            "type": "String",
+            "group": "system"
+        },
+        {
+            "_id": "6446c42a75ac603808704a74",
+            "name": "Gateway",
+            "value": "0.0.0.0",
+            "type": "String",
+            "group": "network"
+        }
+    ],
+    "statusCode": "OK",
+    "statusCodeValue": 200
+}
